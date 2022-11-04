@@ -1,0 +1,15 @@
+C:\Users\koren0\MyApp\bin\Debug\net6.0\NumbersInCSharp.exe
+C:\Users\koren0\MyApp\bin\Debug\net6.0\NumbersInCSharp.deps.json
+C:\Users\koren0\MyApp\bin\Debug\net6.0\NumbersInCSharp.runtimeconfig.json
+C:\Users\koren0\MyApp\bin\Debug\net6.0\NumbersInCSharp.dll
+C:\Users\koren0\MyApp\bin\Debug\net6.0\NumbersInCSharp.pdb
+C:\Users\koren0\MyApp\obj\Debug\net6.0\NumbersInCSharp.csproj.AssemblyReference.cache
+C:\Users\koren0\MyApp\obj\Debug\net6.0\NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koren0\MyApp\obj\Debug\net6.0\NumbersInCSharp.AssemblyInfoInputs.cache
+C:\Users\koren0\MyApp\obj\Debug\net6.0\NumbersInCSharp.AssemblyInfo.cs
+C:\Users\koren0\MyApp\obj\Debug\net6.0\NumbersInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\koren0\MyApp\obj\Debug\net6.0\NumbersInCSharp.dll
+C:\Users\koren0\MyApp\obj\Debug\net6.0\refint\NumbersInCSharp.dll
+C:\Users\koren0\MyApp\obj\Debug\net6.0\NumbersInCSharp.pdb
+C:\Users\koren0\MyApp\obj\Debug\net6.0\NumbersInCSharp.genruntimeconfig.cache
+C:\Users\koren0\MyApp\obj\Debug\net6.0\ref\NumbersInCSharp.dll
