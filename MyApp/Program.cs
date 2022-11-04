@@ -70,7 +70,7 @@ Console.WriteLine($"An example of overflow: {what}");
 void WorkWithDoubles()
 {
 
-double a = 5000;
+double a = 7000;
 double b = 5500;
 double c = 3500;
 double d = (a / b) / c;
